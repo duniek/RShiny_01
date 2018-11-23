@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1542797383433.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3270497385",
+    "id" : "53E89D9B",
+    "lastKnownWriteTime" : 1542957242,
+    "last_content_update" : 1542957242178,
+    "path" : "~/R/Rshiny_01/RShiny_taxes/server.R",
+    "project_path" : "server.R",
+    "properties" : {
+        "cursorPosition" : "18,51",
+        "scrollLine" : "1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

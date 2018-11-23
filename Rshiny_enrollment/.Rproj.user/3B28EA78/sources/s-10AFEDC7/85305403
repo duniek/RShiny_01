@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1542964976652.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "85305403",
+    "lastKnownWriteTime" : 1542965794,
+    "last_content_update" : 1542965808621,
+    "path" : "~/R/Rshiny_01/Rshiny_enrollment/recruitment_v2.R",
+    "project_path" : "recruitment_v2.R",
+    "properties" : {
+        "cursorPosition" : "36,0",
+        "scrollLine" : "18"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

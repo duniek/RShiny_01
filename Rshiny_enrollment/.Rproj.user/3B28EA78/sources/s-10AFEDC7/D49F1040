@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1542964960201.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2770440704",
+    "id" : "D49F1040",
+    "lastKnownWriteTime" : 1542964319,
+    "last_content_update" : 1542964319,
+    "path" : "~/R/Rshiny_01/Rshiny_enrollment/app.R",
+    "project_path" : "app.R",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
