@@ -20,6 +20,7 @@ install.packages("xlsx")
 library(poisson)
 library(devtools)
 library(easyGgplot2)
+library(ggpubr)
 library(scales)
 library(gridExtra)
 library(flexsurv)
@@ -334,12 +335,7 @@ General<- function( n, target, rate, origin, format, c, cohortSize, to, Treatmen
 
 
 
-  return(list(plot1,plot2,mean(Pts.per.site)))
-
-
-
-
-
+  return(list(plot1,plot2,mean(Pts.per.site), overall, final_data))
 }
 
 
@@ -373,4 +369,9 @@ General<- function( n, target, rate, origin, format, c, cohortSize, to, Treatmen
   ## Average number of patients recruited per site
   Dataset[3]
 
-
+overall0 <- Dataset[[4]]
+final_data <- Dataset[[5]]
+  
+sample01 <- head(overall0)
+sample01
+sample01[order(sample01$Country), 12]
